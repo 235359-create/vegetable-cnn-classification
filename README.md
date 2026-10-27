@@ -95,3 +95,8 @@ The trained model was saved as:
 The class names were saved as:
 
 `class_names.json
+### Download Trained Model
+
+The trained model is too large to upload directly to GitHub.
+
+[Download vegetable_cnn.keras from Google Drive](https://drive.google.com/file/d/17cmm7vyZ_MfP6huvJ6J7MvX4WBLmY7vS/view?usp=sharing)
